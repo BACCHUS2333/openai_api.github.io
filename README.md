@@ -1,9 +1,3 @@
-# openai_api.github.io
-
-Sure, here's a sample README file for your repository:
-
----
-
 # Wikipedia API and ChatGPT Integration
 
 This repository demonstrates how to use the Wikipedia API to retrieve explanations of topics and then send them to the ChatGPT chatbox for verification. By combining these two APIs, users can quickly verify the accuracy of information obtained from Wikipedia.
