@@ -83,5 +83,12 @@ Why did the computer go to therapy?
 
 Because it had too many bytes of emotional baggage!
 
-### don't forget to buy api quota on openai
+### don't forget to buy api quota on openai!!
+
+
 💸 💵 💲 💳 💰 🏦 🏧 🤑 💶 💷 💴 💱 🧾 📈 💹 📊 📉 🏧 💳 💰 💲 💵
+
+
+
+
+![Richard](duck.jpg)
